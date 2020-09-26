@@ -33,10 +33,10 @@ const App = () => {
       <StatusBar barStyle="dark-content" />
       <SafeAreaView style={{flex: 1}}>
         <WebView
-          source={{uri: 'http://localhost:3000/'}}
+          source={{uri: 'https://da-haeng-b4f92.firebaseapp.com/'}}
           style={styles.webview}
           originWhitelist={['*']}
-          ref={(webview) => (this.appWebview = webview)}ㅇ
+          ref={(webview) => (this.appWebview = webview)}
         />
       </SafeAreaView>
     </>
