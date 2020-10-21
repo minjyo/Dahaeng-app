@@ -46,7 +46,7 @@
 		00E356F21AD99517003FC87E /* ReactProjectTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ReactProjectTests.m; sourceTree = "<group>"; };
 		0943EE4F495FD0EF9CD754C8 /* Pods-ReactProject-ReactProjectTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactProject-ReactProjectTests.release.xcconfig"; path = "Target Support Files/Pods-ReactProject-ReactProjectTests/Pods-ReactProject-ReactProjectTests.release.xcconfig"; sourceTree = "<group>"; };
 		1072F7526E9D0C6EB241D3BA /* Pods-ReactProject.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactProject.debug.xcconfig"; path = "Target Support Files/Pods-ReactProject/Pods-ReactProject.debug.xcconfig"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* ReactProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReactProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07F961A680F5B00A75B9A /* 다행.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "다행.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = ReactProject/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = ReactProject/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = ReactProject/Images.xcassets; sourceTree = "<group>"; };
@@ -174,7 +174,7 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* ReactProject.app */,
+				13B07F961A680F5B00A75B9A /* 다행.app */,
 				00E356EE1AD99517003FC87E /* ReactProjectTests.xctest */,
 				2D02E47B1E0B4A5D006451C7 /* ReactProject-tvOS.app */,
 				2D02E4901E0B4A5D006451C7 /* ReactProject-tvOSTests.xctest */,
@@ -238,7 +238,7 @@
 			);
 			name = ReactProject;
 			productName = ReactProject;
-			productReference = 13B07F961A680F5B00A75B9A /* ReactProject.app */;
+			productReference = 13B07F961A680F5B00A75B9A /* 다행.app */;
 			productType = "com.apple.product-type.application";
 		};
 		2D02E47A1E0B4A5D006451C7 /* ReactProject-tvOS */ = {
@@ -672,7 +672,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = io.github.minjyo.ReactProject;
-				PRODUCT_NAME = ReactProject;
+				PRODUCT_NAME = "다행";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -696,7 +696,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = io.github.minjyo.ReactProject;
-				PRODUCT_NAME = ReactProject;
+				PRODUCT_NAME = "다행";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};

@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "ReactProject.app"
+               BuildableName = "&#x1103;&#x1161;&#x1112;&#x1162;&#x11bc;.app"
                BlueprintName = "ReactProject"
                ReferencedContainer = "container:ReactProject.xcodeproj">
             </BuildableReference>
@@ -55,7 +55,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ReactProject.app"
+            BuildableName = "&#x1103;&#x1161;&#x1112;&#x1162;&#x11bc;.app"
             BlueprintName = "ReactProject"
             ReferencedContainer = "container:ReactProject.xcodeproj">
          </BuildableReference>
@@ -72,7 +72,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ReactProject.app"
+            BuildableName = "&#x1103;&#x1161;&#x1112;&#x1162;&#x11bc;.app"
             BlueprintName = "ReactProject"
             ReferencedContainer = "container:ReactProject.xcodeproj">
          </BuildableReference>
